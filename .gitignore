@@ -1,0 +1,2 @@
+/project/db-data/postgres
+!/project/db-data/postgres/docker-compose.yml
